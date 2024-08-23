@@ -11,6 +11,7 @@ JATE is a Progressive Web Application (PWA) text editor that runs in the browser
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,6 +56,20 @@ This application is deployed on Render. To deploy your own instance:
 2. Follow the Render Deployment Guide
 3. Set the build command to: `npm install && npm run build`
 4. Set the start command to: `cd server && node server.js`
+
+## Demo
+
+[Deployed app link](https://fancy-pwa-text-editor.onrender.com/)
+
+### Images
+
+#### Index on browser
+
+![index-on-browser](https://github.com/user-attachments/assets/02ca51d8-2604-4487-9694-0a7587462442)
+
+#### Index installed
+
+![index-installed](https://github.com/user-attachments/assets/536e85c6-a9ca-4556-a0fa-6efbfc78593b)
 
 ## Contributing
 

@@ -71,6 +71,10 @@ This application is deployed on Render. To deploy your own instance:
 
 ![index-installed](https://github.com/user-attachments/assets/536e85c6-a9ca-4556-a0fa-6efbfc78593b)
 
+#### Service worker
+
+![service-worker](https://github.com/user-attachments/assets/133cc1a1-a0ad-43a5-a68d-52ce116de633)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
